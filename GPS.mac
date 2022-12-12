@@ -1,0 +1,7 @@
+#/gps/verbose 2
+
+/gps/particle gamma
+/gps/pos/type Point
+/gps/pos/centre 0 0 0 mm
+/gps/ang/type iso
+/gps/ene/mono 2 MeV

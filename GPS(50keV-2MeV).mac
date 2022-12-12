@@ -1,0 +1,67 @@
+#/gps/verbose 2
+
+/gps/particle gamma
+/gps/pos/type Point
+/gps/pos/centre 0 0 0 mm
+/gps/ang/type iso
+
+/gps/ene/mono 50 keV
+/run/beamOn 100000000
+/gps/ene/mono 100 keV
+/run/beamOn 100000000
+/gps/ene/mono 150 keV
+/run/beamOn 100000000
+/gps/ene/mono 200 keV
+/run/beamOn 100000000
+/gps/ene/mono 250 keV
+/run/beamOn 100000000
+/gps/ene/mono 300 keV
+/run/beamOn 100000000
+/gps/ene/mono 350 keV
+/run/beamOn 100000000
+/gps/ene/mono 400 keV
+/run/beamOn 100000000
+/gps/ene/mono 450 keV
+/run/beamOn 100000000
+/gps/ene/mono 500 keV
+/run/beamOn 100000000
+/gps/ene/mono 550 keV
+/run/beamOn 100000000
+/gps/ene/mono 600 keV
+/run/beamOn 100000000
+/gps/ene/mono 650 keV
+/run/beamOn 100000000
+/gps/ene/mono 700 keV
+/run/beamOn 100000000
+/gps/ene/mono 750 keV
+/run/beamOn 100000000
+/gps/ene/mono 800 keV
+/run/beamOn 100000000
+/gps/ene/mono 850 keV
+/run/beamOn 100000000
+/gps/ene/mono 900 keV
+/run/beamOn 100000000
+/gps/ene/mono 950 keV
+/run/beamOn 100000000
+/gps/ene/mono 1000 keV
+/run/beamOn 100000000
+/gps/ene/mono 1100 keV
+/run/beamOn 100000000
+/gps/ene/mono 1200 keV
+/run/beamOn 100000000
+/gps/ene/mono 1300 keV
+/run/beamOn 100000000
+/gps/ene/mono 1400 keV
+/run/beamOn 100000000
+/gps/ene/mono 1500 keV
+/run/beamOn 100000000
+/gps/ene/mono 1600 keV
+/run/beamOn 100000000
+/gps/ene/mono 1700 keV
+/run/beamOn 100000000
+/gps/ene/mono 1800 keV
+/run/beamOn 100000000
+/gps/ene/mono 1900 keV
+/run/beamOn 100000000
+/gps/ene/mono 2000 keV
+/run/beamOn 100000000
